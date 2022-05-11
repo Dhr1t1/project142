@@ -1,0 +1,28 @@
+body
+{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0;
+}
+
+.instructions{
+    float: right;
+    background-color: red;
+}
+
+.heading h3{
+    display: inline;
+}
+
+#thing{
+    background-color: gray;
+    line-height: 2;
+    margin: 0px;
+}
+
+canvas{
+    border: 1px solid white;
+}
